@@ -33,16 +33,12 @@ def filtered_targets(data):
 
     # Alternately, this could be implemented with jq.
 
-    for module in data['modules']:
-        for level in module['levels']:
+    return [target
+            for module in data['modules'] for level in module['levels']
             if level['levelType'] == 'Gameplay' and level[
-                    'result'] == 'Complete':
-                for trial in level['trials']:
-                    if trial[
-                            'result'] == 'Complete':  # Is it possible to have incomplete trials within a complete level?
-                        for target in trial['targets']:
-                            if target['result'] == 'CorrectUnfriendly':
-                                yield target
+                'result'] == 'Complete' for trial in level['trials']
+            for target in trial['targets']
+            if target['result'] == 'CorrectUnfriendly']
 
 
 if __name__ == '__main__':
