@@ -1,0 +1,880 @@
+{
+  "sessionID": "c0386f1b-3597-45c7-8b86-e55bed0fc27e",
+  "userID": "613",
+  "modules": [
+    {
+      "startTime": 16157965,
+      "finishTime": 16418018,
+      "result": "Complete",
+      "levels": [
+        {
+          "startTime": 16159627,
+          "finishTime": 16192437,
+          "result": "Complete",
+          "levelType": "Tutorial",
+          "trials": [
+            {
+              "startTime": 16159627,
+              "finishTime": 16192437,
+              "result": "Complete",
+              "targets": [
+                {
+                  "showTime": 16166151,
+                  "finishTime": 16168717,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16168717,
+                  "finishTime": 16171514,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16175530,
+                  "finishTime": 16176751,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16176751,
+                  "finishTime": 16177968,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16177968,
+                  "finishTime": 16178968,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16178968,
+                  "finishTime": 16179919,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16183937,
+                  "finishTime": 16186422,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16186422,
+                  "finishTime": 16188921,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16188921,
+                  "finishTime": 16191420,
+                  "result": "CorrectFriendly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 16200921,
+          "finishTime": 16230992,
+          "result": "PerformanceRestart",
+          "levelType": "Gameplay",
+          "trials": [
+            {
+              "startTime": 16200921,
+              "finishTime": 16230992,
+              "result": "Performance",
+              "targets": [
+                {
+                  "showTime": 16200938,
+                  "finishTime": 16202055,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16202371,
+                  "finishTime": 16203024,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16203340,
+                  "finishTime": 16203948,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16205259,
+                  "finishTime": 16205977,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16207292,
+                  "finishTime": 16207939,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16209240,
+                  "finishTime": 16209790,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16210106,
+                  "finishTime": 16210755,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16211056,
+                  "finishTime": 16212008,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16212323,
+                  "finishTime": 16213056,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16213356,
+                  "finishTime": 16213940,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16214256,
+                  "finishTime": 16214873,
+                  "result": "IncorrectFriendly"
+                },
+                {
+                  "showTime": 16215173,
+                  "finishTime": 16216026,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16216341,
+                  "finishTime": 16216941,
+                  "result": "IncorrectFriendly"
+                },
+                {
+                  "showTime": 16217257,
+                  "finishTime": 16217792,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16218110,
+                  "finishTime": 16218508,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16221824,
+                  "finishTime": 16222525,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16225841,
+                  "finishTime": 16226343,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16229658,
+                  "finishTime": 16230142,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16230441,
+                  "finishTime": 16230976,
+                  "result": "IncorrectFriendly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 16240793,
+          "finishTime": 16275547,
+          "result": "Complete",
+          "levelType": "Tutorial",
+          "trials": [
+            {
+              "startTime": 16240793,
+              "finishTime": 16275547,
+              "result": "Complete",
+              "targets": [
+                {
+                  "showTime": 16247310,
+                  "finishTime": 16252978,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16252978,
+                  "finishTime": 16254246,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16258262,
+                  "finishTime": 16259499,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16259499,
+                  "finishTime": 16260781,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16260781,
+                  "finishTime": 16262048,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16262048,
+                  "finishTime": 16263065,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16267079,
+                  "finishTime": 16269565,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16269565,
+                  "finishTime": 16272063,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16272063,
+                  "finishTime": 16274546,
+                  "result": "CorrectFriendly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 16281514,
+          "finishTime": 16418018,
+          "result": "Complete",
+          "levelType": "Gameplay",
+          "trials": [
+            {
+              "startTime": 16281514,
+              "finishTime": 16418018,
+              "result": "Complete",
+              "targets": [
+                {
+                  "showTime": 16281531,
+                  "finishTime": 16282233,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16282531,
+                  "finishTime": 16282982,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16283299,
+                  "finishTime": 16283799,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16285115,
+                  "finishTime": 16285582,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16286898,
+                  "finishTime": 16287418,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16288732,
+                  "finishTime": 16289333,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16289649,
+                  "finishTime": 16290251,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16290566,
+                  "finishTime": 16291154,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16291465,
+                  "finishTime": 16292065,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16292382,
+                  "finishTime": 16292983,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16293285,
+                  "finishTime": 16294717,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16295036,
+                  "finishTime": 16295684,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16296000,
+                  "finishTime": 16297433,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16297749,
+                  "finishTime": 16298367,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16298683,
+                  "finishTime": 16299357,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16302667,
+                  "finishTime": 16303334,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16306634,
+                  "finishTime": 16307268,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16310568,
+                  "finishTime": 16311068,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16311385,
+                  "finishTime": 16311886,
+                  "result": "IncorrectFriendly"
+                },
+                {
+                  "showTime": 16312201,
+                  "finishTime": 16313068,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16313385,
+                  "finishTime": 16314002,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16314318,
+                  "finishTime": 16315739,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16316052,
+                  "finishTime": 16316755,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16317069,
+                  "finishTime": 16317637,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16320936,
+                  "finishTime": 16322432,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16325737,
+                  "finishTime": 16327154,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16330457,
+                  "finishTime": 16331421,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16334737,
+                  "finishTime": 16335672,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16338988,
+                  "finishTime": 16339472,
+                  "result": "IncorrectFriendly"
+                },
+                {
+                  "showTime": 16342772,
+                  "finishTime": 16343889,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16347189,
+                  "finishTime": 16348006,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16351310,
+                  "finishTime": 16352177,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16355491,
+                  "finishTime": 16356158,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16357459,
+                  "finishTime": 16358074,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16359390,
+                  "finishTime": 16360807,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16362110,
+                  "finishTime": 16362809,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16364125,
+                  "finishTime": 16365541,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16366842,
+                  "finishTime": 16367592,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16368894,
+                  "finishTime": 16369658,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16370958,
+                  "finishTime": 16372376,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16373676,
+                  "finishTime": 16374459,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16375759,
+                  "finishTime": 16377179,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16378495,
+                  "finishTime": 16379926,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16381226,
+                  "finishTime": 16381993,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16383294,
+                  "finishTime": 16384711,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16388015,
+                  "finishTime": 16389015,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16392318,
+                  "finishTime": 16393745,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16397046,
+                  "finishTime": 16397947,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16401263,
+                  "finishTime": 16402685,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16405997,
+                  "finishTime": 16406682,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16409984,
+                  "finishTime": 16411413,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 16412713,
+                  "finishTime": 16413364,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16414681,
+                  "finishTime": 16415649,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 16416964,
+                  "finishTime": 16418018,
+                  "result": "CorrectUnfriendly"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "startTime": 1620994,
+      "finishTime": 1828715,
+      "result": "Complete",
+      "levels": [
+        {
+          "startTime": 1632063,
+          "finishTime": 1661795,
+          "result": "Complete",
+          "levelType": "Tutorial",
+          "trials": [
+            {
+              "startTime": 1632065,
+              "finishTime": 1661795,
+              "result": "Complete",
+              "targets": [
+                {
+                  "showTime": 1638592,
+                  "finishTime": 1642525,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1642525,
+                  "finishTime": 1643508,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1647508,
+                  "finishTime": 1648708,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1648708,
+                  "finishTime": 1649761,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1649761,
+                  "finishTime": 1650727,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1650727,
+                  "finishTime": 1651627,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1655660,
+                  "finishTime": 1657044,
+                  "result": "IncorrectFriendly"
+                },
+                {
+                  "showTime": 1657044,
+                  "finishTime": 1658293,
+                  "result": "IncorrectFriendly"
+                },
+                {
+                  "showTime": 1658293,
+                  "finishTime": 1660793,
+                  "result": "CorrectFriendly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1693698,
+          "finishTime": 1828715,
+          "result": "Complete",
+          "levelType": "Gameplay",
+          "trials": [
+            {
+              "startTime": 1693707,
+              "finishTime": 1828715,
+              "result": "Complete",
+              "targets": [
+                {
+                  "showTime": 1693714,
+                  "finishTime": 1695134,
+                  "result": "IncorrectUnfriendly"
+                },
+                {
+                  "showTime": 1696448,
+                  "finishTime": 1697049,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1698349,
+                  "finishTime": 1699000,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1702301,
+                  "finishTime": 1703050,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1706352,
+                  "finishTime": 1707021,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1710333,
+                  "finishTime": 1710952,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1714253,
+                  "finishTime": 1715684,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1718985,
+                  "finishTime": 1720402,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1723706,
+                  "finishTime": 1724586,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1727886,
+                  "finishTime": 1728486,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1731787,
+                  "finishTime": 1733219,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1736523,
+                  "finishTime": 1737170,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1738486,
+                  "finishTime": 1739038,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1740353,
+                  "finishTime": 1741774,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1743087,
+                  "finishTime": 1743738,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1745038,
+                  "finishTime": 1746455,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1747756,
+                  "finishTime": 1748472,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1749787,
+                  "finishTime": 1751205,
+                  "result": "IncorrectUnfriendly"
+                },
+                {
+                  "showTime": 1751506,
+                  "finishTime": 1752256,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1752571,
+                  "finishTime": 1753205,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1753525,
+                  "finishTime": 1754122,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1754429,
+                  "finishTime": 1755856,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1756172,
+                  "finishTime": 1756757,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1757072,
+                  "finishTime": 1758488,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1758788,
+                  "finishTime": 1759629,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1759941,
+                  "finishTime": 1760523,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1760840,
+                  "finishTime": 1761423,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1761739,
+                  "finishTime": 1762315,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1762616,
+                  "finishTime": 1763240,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1763556,
+                  "finishTime": 1764976,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1765277,
+                  "finishTime": 1765857,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1766159,
+                  "finishTime": 1766774,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1767091,
+                  "finishTime": 1768523,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1768824,
+                  "finishTime": 1769408,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1769724,
+                  "finishTime": 1770341,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1770658,
+                  "finishTime": 1771207,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1774510,
+                  "finishTime": 1775125,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1778428,
+                  "finishTime": 1779002,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1782308,
+                  "finishTime": 1782827,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1784142,
+                  "finishTime": 1785559,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1786859,
+                  "finishTime": 1788277,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1789579,
+                  "finishTime": 1790163,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1791477,
+                  "finishTime": 1791994,
+                  "result": "IncorrectFriendly"
+                },
+                {
+                  "showTime": 1793309,
+                  "finishTime": 1794728,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1796043,
+                  "finishTime": 1796729,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1800040,
+                  "finishTime": 1801462,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1804762,
+                  "finishTime": 1805396,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1808699,
+                  "finishTime": 1810130,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1813445,
+                  "finishTime": 1814047,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1817363,
+                  "finishTime": 1818779,
+                  "result": "CorrectFriendly"
+                },
+                {
+                  "showTime": 1822080,
+                  "finishTime": 1822798,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1824100,
+                  "finishTime": 1824882,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1826190,
+                  "finishTime": 1826782,
+                  "result": "CorrectUnfriendly"
+                },
+                {
+                  "showTime": 1828097,
+                  "finishTime": 1828715,
+                  "result": "CorrectUnfriendly"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

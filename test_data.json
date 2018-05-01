@@ -1,0 +1,50 @@
+{
+    "modules": [
+      {
+        "levels": [
+          {
+            "result": "Complete",
+            "levelType": "Tutorial",
+            "trials": [
+              {
+                "result": "Complete",
+                "targets": [
+                  {
+                    "showTime": 0,
+                    "finishTime": 1000000,
+                    "result": "CorrectUnfriendly"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "result": "Complete",
+            "levelType": "Gameplay",
+            "trials": [
+              {
+                "result": "Complete",
+                "targets": [
+                  {
+                    "showTime": 1000000,
+                    "finishTime": 1000100,
+                    "result": "CorrectUnfriendly"
+                  },
+                  {
+                    "showTime": 1000100,
+                    "finishTime": 1001100,
+                    "result": "--------"
+                  },
+                  {
+                    "showTime": 1001100,
+                    "finishTime": 1001500,
+                    "result": "CorrectUnfriendly"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
